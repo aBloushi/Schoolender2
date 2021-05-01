@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "211178755568",
+    "firebase_url": "https://schoolender-f458b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "schoolender-f458b",
+    "storage_bucket": "schoolender-f458b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211178755568:android:1af04e7e54f97d0f893935",
+        "android_client_info": {
+          "package_name": "com.example.schoolender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211178755568-6okfiqj466udupdbhofafa1o9uce7tqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFazO08KITT_7--xuDq9RqyL6SsHLcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211178755568-6okfiqj466udupdbhofafa1o9uce7tqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
